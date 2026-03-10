@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kathyjah2
-- 👀 I’m interested in smart contract development
+- 👋 Hi, I’m @kathyjah
+- 👀 I’m interested in smart contract development and Agentic AI use cases.
 - 🌱 I’m currently learning Python
 
 <!---
